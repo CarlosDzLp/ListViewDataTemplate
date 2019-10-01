@@ -1,0 +1,15 @@
+/Users/carlosdiaz/Projects/ListVideo/ListVideo/bin/Debug/netstandard2.0/ListVideo.deps.json
+/Users/carlosdiaz/Projects/ListVideo/ListVideo/bin/Debug/netstandard2.0/ListVideo.dll
+/Users/carlosdiaz/Projects/ListVideo/ListVideo/bin/Debug/netstandard2.0/ref/ListVideo.dll
+/Users/carlosdiaz/Projects/ListVideo/ListVideo/bin/Debug/netstandard2.0/ListVideo.pdb
+/Users/carlosdiaz/Projects/ListVideo/ListVideo/obj/Debug/netstandard2.0/ListVideo.csprojAssemblyReference.cache
+/Users/carlosdiaz/Projects/ListVideo/ListVideo/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/carlosdiaz/Projects/ListVideo/ListVideo/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/carlosdiaz/Projects/ListVideo/ListVideo/obj/Debug/netstandard2.0/ListVideo.AssemblyInfoInputs.cache
+/Users/carlosdiaz/Projects/ListVideo/ListVideo/obj/Debug/netstandard2.0/ListVideo.AssemblyInfo.cs
+/Users/carlosdiaz/Projects/ListVideo/ListVideo/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/carlosdiaz/Projects/ListVideo/ListVideo/obj/Debug/netstandard2.0/ListVideo.dll
+/Users/carlosdiaz/Projects/ListVideo/ListVideo/obj/Debug/netstandard2.0/ref/ListVideo.dll
+/Users/carlosdiaz/Projects/ListVideo/ListVideo/obj/Debug/netstandard2.0/ListVideo.pdb
+/Users/carlosdiaz/Projects/ListVideo/ListVideo/obj/Debug/netstandard2.0/Views/Template/ImageViewTemplate.xaml.g.cs
+/Users/carlosdiaz/Projects/ListVideo/ListVideo/obj/Debug/netstandard2.0/Views/Template/VideoViewTemplate.xaml.g.cs

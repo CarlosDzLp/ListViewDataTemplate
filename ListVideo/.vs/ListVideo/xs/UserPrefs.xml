@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{5D16D415-9887-4331-9298-D4C5F0F753D2}|Default">
+  <MonoDevelop.Ide.ItemProperties.ListVideo.Android PreferredExecutionTarget="Android.DVR0219415003527" />
+  <MonoDevelop.Ide.ItemProperties.ListVideo.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListVideo" expanded="True">
+            <Node name="ListVideo" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Template" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="ListVideo.Android" expanded="True">
+              <Node name="Properties" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
